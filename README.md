@@ -1,7 +1,7 @@
 ## Calligraphy Evaluation
 Evaluating Brush Movements for Chinese Calligraphy: A Computer Vision Based Approach
 
-### environment
+### Environment
 Python 3.6
 
 tensorflow 1.4.1
