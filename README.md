@@ -19,9 +19,11 @@ git clone --recursive https://github.com/excitingx/Calligraphy-Evaluation
 1. preprocessing:
 - framing: split video into frames
 - image2vec: convert the images to a vector and label it
+
 2. recognization:
 
 MCNN-LSTM_WriteStateReg.py is the main the process of recognization.
+
 3. evaluation:
 - similar_feature_data.csv is the similarity data of the writing traces between the strokes of the trainee and the teacher.
 - artificial_score.csv is the scorec by teachers.
